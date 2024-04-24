@@ -1,3 +1,5 @@
+# Escreva um programa que leia um número em centímetros e o mostre expresso em metros e centímetros.
+
 cm = int(input("Digite um número em centímetros: "))
 
 valor1 = cm // 100
