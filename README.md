@@ -5,26 +5,12 @@ Neste repositório possui todas as atividades e projetos de programação propos
 
 O objetivo é traçar o caminho da minha aprendizagem desde o início e visualizar futuramente a evolução dos meus códigos e da minha lógica.
 
-<details>
-  <summary>
-    <h3>
-      Sumário
-    </h3>
-  </summary>
-  Algoritmos e Programação I
-</details>
-
-
 ---
 
 ### Algoritmos e Programação I
-| 2024.1 |
+#### | 2024.1 |
 
 As listas de exercícios foram selecionadas pelo professor através da plataforma Beecrowd, visando aprender e praticar conceitos básicos de Python, como operadores aritméticos, relacionais, de atribuição, estruturas de condição e estruturas de repetição.
-
-   
-</div>
-
  
 Atividade | Conceito
 --------- | ----------
