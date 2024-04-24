@@ -10,10 +10,20 @@ O objetivo é traçar o caminho da minha aprendizagem desde o início e visualiz
 ### Algoritmos e Programação I
 #### | 2024.1 |
 
-As listas de exercícios foram selecionadas pelo professor através da plataforma Beecrowd, visando aprender e praticar conceitos básicos de Python, como operadores aritméticos, relacionais, de atribuição, estruturas de condição e estruturas de repetição.
+Python foi a primeira linguagem abordada no curso, visto que utiliza tipagem dinâmica e é mais agradável para iniciantes em programação.
+
+A partir das listas de exercícios, selecionadas pelo professor através da plataforma Beecrowd, aprendemos e praticamos conceitos das linguagens de programação:
+- Operadores aritméticos;
+- Operadores relacionais;
+- Operadores de atribuição;
+- Operadores lógicos;
+- Estruturas condicionais;
+- Estruturas de repetição.
  
 Atividade | Conceito
 --------- | ----------
 [Lista de Exercícios #1](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%231) | A
 [Lista de Exercícios #2](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%232) | A
 [Prova #1](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Prova%20%231) | A
+
+---
