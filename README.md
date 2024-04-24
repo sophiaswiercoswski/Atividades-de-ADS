@@ -1,5 +1,6 @@
 Este repositório possui todos os exercícios de programação que realizei durante o curso de Análise e Desenvolvimento de Sistemas, traçando o caminho do meu aprendizado 
 
+
 ---
 
 ### Algoritmos e Programação I
