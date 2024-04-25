@@ -1,7 +1,7 @@
 ## Atividades e projetos da faculdade
 <img src="https://github.com/sophiaswiercoswski/Projetos-de-ADS/assets/159056111/8c7b69c0-728b-4ea0-9d40-7e98b2d68f91" width="300px" align="right">
 
-Neste repositório possui todas as atividades e projetos de programação propostos pela minha faculdade de Análise e Desenvolvimento de Sistemas.
+Neste repositório possui todas as atividades e projetos de programação propostos pela curso que fiz de Análise e Desenvolvimento de Sistemas.
 
 O objetivo é traçar o caminho da minha aprendizagem desde o início e visualizar futuramente a minha evolução.
 
@@ -12,7 +12,7 @@ O objetivo é traçar o caminho da minha aprendizagem desde o início e visualiz
 
 Python foi a primeira linguagem abordada no curso, visto que utiliza tipagem dinâmica e é mais agradável para iniciantes em programação.
 
-A partir das listas de exercícios, selecionadas pelo professor através da plataforma Beecrowd, aprendemos e praticamos conceitos das linguagens de programação:
+A partir das listas de exercícios, selecionadas pelo professor através da plataforma Beecrowd, aprendi e pratiquei conceitos básicos de qualquer linguagem de programação:
 - Operadores aritméticos;
 - Operadores relacionais;
 - Operadores de atribuição;
