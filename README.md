@@ -20,7 +20,7 @@ A partir das listas de exercícios, selecionadas pelo professor através da plat
 - Estruturas condicionais;
 - Estruturas de repetição.
  
-Atividade | Conceito
+Atividades | Conceito
 --------- | ----------
 [Lista de Exercícios #1](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%231) | A
 [Lista de Exercícios #2](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%232) | A
