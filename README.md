@@ -3,7 +3,7 @@
 
 Neste repositório possui todas as atividades e projetos de programação propostos pela curso que fiz de Análise e Desenvolvimento de Sistemas.
 
-O objetivo é traçar o caminho da minha aprendizagem desde o início e visualizar futuramente a minha evolução.
+O objetivo é traçar o caminho da minha aprendizagem desde o início e futuramente visualizar a minha evolução.
 
 ---
 
