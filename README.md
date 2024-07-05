@@ -1,7 +1,7 @@
 ## Atividades e projetos da faculdade
 <img src="https://github.com/sophiaswiercoswski/Projetos-de-ADS/assets/159056111/8c7b69c0-728b-4ea0-9d40-7e98b2d68f91" width="300px" align="right">
 
-Neste repositório possui todas as atividades e projetos de programação propostos pela curso que fiz de Análise e Desenvolvimento de Sistemas.
+Neste repositório possui todas as atividades de programação propostas pelo meu curso de Análise e Desenvolvimento de Sistemas.
 
 O objetivo é traçar o caminho da minha aprendizagem desde o início e futuramente visualizar a minha evolução.
 
