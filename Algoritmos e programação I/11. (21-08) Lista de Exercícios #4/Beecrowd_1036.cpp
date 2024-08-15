@@ -19,7 +19,7 @@ int main() {
     R2 = (-B - sqrt(delta)) / (2 * A);
 
     // Exibir R1 e R2 apenas se delta for maior que 0 ou os números diferentes de 0
-    if(A == 0 || B == 0 || C == 0  || delta < 0) {
+    if((A == 0) || (B == 0) || (C == 0)  || (delta < 0)) {
         printf("Impossivel calcular\n");
     }
     else {

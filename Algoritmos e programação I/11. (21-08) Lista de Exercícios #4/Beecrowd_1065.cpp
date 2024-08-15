@@ -1,6 +1,6 @@
 /*
 Beecrowd: Problema 1065
-12/08/2024
+14/08/2024
 Sophia Swiercoswski
 */
 
@@ -8,17 +8,17 @@ Sophia Swiercoswski
 using namespace std;
 
 int main() {
-    // Ler 5 números inteiros e armazenar valores pares
-    int pares = 0, n;
-    for(int i = 0; i < 5; i++) {
+    // Ler 5 valores inteiros e contar quantos são pares
+    int n, cont = 0;
+    for(int i = 1; i <= 5; i++) {
         cin >> n;
-        if(n / 2 == 0) {
-            pares++;
+        if(n % 2 == 0) {
+            cont++;
         }
     }
 
-    // Exibir quantidade de pares
-    printf("%d valores pares\n", pares);
+    // Exibir valores pares
+    printf("%d valores pares\n", cont);
 
     return 0;
 }
