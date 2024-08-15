@@ -1,5 +1,0 @@
-raio = int(input("Digite o raio do círculo: "))
-area = round((3.14 * raio * raio), 2)
-print("A área do círculo é", area, "m²")
-circunferencia = round((2 * 3.14 * raio), 2)
-print ("A círcuferência do círculo é", circunferencia, "cm")
