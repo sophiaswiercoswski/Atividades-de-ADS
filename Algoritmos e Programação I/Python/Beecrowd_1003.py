@@ -4,8 +4,8 @@
 a = int(input())
 b = int(input())
 
-# Somar os valores
+# Soma os valores
 soma = a + b
 
-# Exibir a soma
+# Exibir soma
 print ("SOMA = {}". format (soma))

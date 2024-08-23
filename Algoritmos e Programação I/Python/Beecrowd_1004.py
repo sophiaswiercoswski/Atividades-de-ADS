@@ -5,7 +5,7 @@ a = int(input())
 b = int(input())
 
 # Multiplicar valores
-prod = a * b
+prod = a * b\
 
-# Exibir multiplicação
+# Exibir valor da multiplicação
 print ("PROD =", prod)

@@ -7,5 +7,4 @@ r = float(input())
 area = round(float(3.14159 * (r * r)), 4)
 
 # Exibir valor da área
-print ("A={}". format (area))
-print("A=%0.4f" % area)    
+print ("A={:.4f}".format (area))
