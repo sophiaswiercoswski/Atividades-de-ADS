@@ -26,5 +26,8 @@ Atividades | Linguagem
 [Lista de Exercícios #1](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Python/Lista%20de%20Exercícios%20%231) | Python
 [Lista de Exercícios #2](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Python/Lista%20de%20Exercícios%20%232) | Python
 [Prova](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Python/Prova) | Python
+[Atividades sobre Funções]() | Python
+[Atividade]() | C++
+[Lista de Exercícios #4]() | C++
 
 ---
