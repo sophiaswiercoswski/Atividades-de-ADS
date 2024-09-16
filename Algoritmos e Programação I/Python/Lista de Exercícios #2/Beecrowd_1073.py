@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1073
-04/04/2024
-Sophia Swiercoswski
-'''
-
 n = int(input())
 
 for n in range (2, n + 1, 2):

@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1099
-09/04/2024
-Sophia Swiercoswski
-'''
-
 N = int(input())
 
 for x in range(N):

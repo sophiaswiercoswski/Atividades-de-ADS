@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1079
-13/04/2024
-Sophia Swiercoswski
-'''
-
 n = int(input())
 
 for testes in range(n):

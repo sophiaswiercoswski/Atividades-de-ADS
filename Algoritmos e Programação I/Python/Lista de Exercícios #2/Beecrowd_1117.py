@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1117
-07/04/2024
-Sophia Swiercoswski
-'''
-
 cont_n = 0
 media = 0
 

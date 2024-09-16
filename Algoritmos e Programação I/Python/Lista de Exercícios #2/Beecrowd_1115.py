@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1115
-05/04/2024
-Sophia Swiercoswski
-'''
-
 x = int
 y = int
 

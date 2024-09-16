@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1060
-31/03/2024
-Sophia Swiercoswski
-'''
-
 cont = 0
 
 for numero in range(6):

@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1080
-10/04/2024
-Sophia Swiercoswski
-'''
-
 maior = 0
 
 for linha in range(3):

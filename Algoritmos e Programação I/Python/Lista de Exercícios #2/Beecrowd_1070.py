@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1070
-30/03/2024
-Sophia Swiercoswski
-'''
-
 x = int(input())
 y = x + 12
 

@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1066
-03/04/2024
-Sophia Swiercoswski
-'''
-
 cont_par = 0
 cont_impar = 0
 cont_pos = 0

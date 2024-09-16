@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1094
-05/04/2024
-Sophia Swiercoswski
-'''
-
 n = int(input()) # Número de casos/linhas
 
 total_c = 0

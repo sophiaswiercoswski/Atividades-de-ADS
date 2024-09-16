@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1072
-04/04/2024
-Sophia Swiercoswski
-'''
-
 n = int(input())
 
 cont_in = 0

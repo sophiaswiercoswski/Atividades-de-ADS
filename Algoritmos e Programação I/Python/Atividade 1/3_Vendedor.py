@@ -1,6 +1,6 @@
-nome = input ("Qual o nome do vendedor? ")
-salario = float(input ("Qual o salário fixo? R$"))
-vendas = float(input ("Quantas vendas por mês? R$"))
+nome = input("Qual o nome do vendedor? ")
+salario = float(input("Qual o salário fixo? R$"))
+vendas = float(input("Quantas vendas por mês? R$"))
 comissao = (vendas * 0.15)
 salario_final = round((salario + comissao), 2)
 

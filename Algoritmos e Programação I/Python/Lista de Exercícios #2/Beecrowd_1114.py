@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1114
-04/04/2024
-Sophia Swiercoswski
-'''
-
 senha = int
 
 while (senha != 2002):

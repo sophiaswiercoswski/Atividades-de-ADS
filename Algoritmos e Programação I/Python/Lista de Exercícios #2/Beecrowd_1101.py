@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1101
-09/04/2024
-Sophia Swiercoswski
-'''
-
 while True:
     numeros = [int(x) for x in input().split()]
     M = min(numeros)

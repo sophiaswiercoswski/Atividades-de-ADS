@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1074
-04/04/2024
-Sophia Swiercoswski
-'''
-
 n = int(input())
 
 for n in range (n):

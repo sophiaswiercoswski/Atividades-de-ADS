@@ -1,9 +1,3 @@
-'''
-Beecrowd: Problema 1064
-02/04/2024
-Sophia Swiercoswski
-'''
-
 cont = 0
 soma = 0
 
