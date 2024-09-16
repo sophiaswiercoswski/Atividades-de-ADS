@@ -22,8 +22,8 @@ A partir das listas de exercícios, selecionadas pelo professor através da plat
  
 Atividades | Conceito
 --------- | ----------
-[Lista de Exercícios #1](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%231) | A
-[Lista de Exercícios #2](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%232) | A
+[Lista de Exercícios #1](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Python) | A
+[C++](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Lista%20de%20Exercícios%20%232) | A
 [Prova #1](https://github.com/sophiaswiercoswski/Projetos-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Prova%20%231) | A
 
 ---
