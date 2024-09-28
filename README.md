@@ -1,13 +1,17 @@
-# Atividades e Projetos de Análise e Desenvolvimento de Sistemas
-<img src="https://github.com/sophiaswiercoswski/Projetos-de-ADS/assets/159056111/8c7b69c0-728b-4ea0-9d40-7e98b2d68f91" width="300px" align="right">
+# Atividades de Análise e Desenvolvimento de Sistemas
 
-Este respositório contém todas as atividades e projetos desenvolvidos ao longo do curso de **Análise e Desenvovimento de Sistemas**.
+Neste contém todas as atividades e projetos desenvolvidos ao longo do curso de **Análise e Desenvovimento de Sistemas**.
 
+<<<<<<< HEAD
 ### Objetivo
+=======
+## Objetivo
+<img src="https://github.com/sophiaswiercoswski/Projetos-de-ADS/assets/159056111/8c7b69c0-728b-4ea0-9d40-7e98b2d68f91" width="300px" align="right">
+>>>>>>> 0b084a88fb428ee8a688df8e8add2869a0c38903
 
 O objetivo deste repositório é armazenar as atividades e projetos realizados durante o curso, registrando o meu progresso de aprendizagem desde os conceitos básicos até os avançados.
 
-Este repositório será atualizado frequentemente conforme novas atividades forem concluídas.
+Será atualizado frenquentemente conforme novas atividades forem concluídas.
 
 ---
 
