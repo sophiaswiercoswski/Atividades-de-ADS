@@ -45,11 +45,11 @@ Nesta disciplina foi estudado HTML a fim de estruturar e apresentar conteúdo na
  
 Atividade | Linguagem
 --------- | ----------
-[Listas]() | HTML
-[Links]() | HTML
-[Mídias]() | HTML
-[Imagens clicáveis]() | HTML
-[Tabelas]() | HTML
-[Formulários]() | HTML
+[Listas](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/1.%20Listas) | HTML
+[Links](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/2.%20Links) | HTML
+[Mídias](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/3.%20Mídias) | HTML
+[Imagens clicáveis](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/4.%20Imagens%20clicáveis) | HTML
+[Tabelas](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/5.%20Tabelas) | HTML
+[Formulários](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/6.%20Formulários) | HTML
 
 ---
