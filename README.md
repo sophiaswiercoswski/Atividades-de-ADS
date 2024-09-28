@@ -2,8 +2,6 @@
 
 Neste contém todas as atividades e projetos desenvolvidos ao longo do curso de **Análise e Desenvovimento de Sistemas**.
 
-### Objetivo
-=======
 ## Objetivo
 <img src="https://github.com/sophiaswiercoswski/Projetos-de-ADS/assets/159056111/8c7b69c0-728b-4ea0-9d40-7e98b2d68f91" width="300px" align="right">
 
