@@ -3,7 +3,7 @@
 
 Este respositório contém todas as atividades e projetos desenvolvidos ao longo do curso de **Análise e Desenvovimento de Sistemas**.
 
-## Objetivo
+### Objetivo
 
 O objetivo deste repositório é armazenar as atividades e projetos realizados durante o curso, registrando o meu progresso de aprendizagem desde os conceitos básicos até os avançados.
 
