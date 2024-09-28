@@ -20,7 +20,7 @@ A partir das listas de exercícios, selecionadas pelo professor através da plat
 - Estruturas condicionais;
 - Estruturas de repetição.
  
-Atividades | Linguagem
+Atividade | Linguagem
 --------- | ----------
 [Atividade](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Python/Atividade%201) | Python
 [Lista de Exercícios #1](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Algoritmos%20e%20Programação%20I/Python/Lista%20de%20Exercícios%20%231) | Python
