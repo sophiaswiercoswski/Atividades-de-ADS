@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas em HTML</title>
+</head>
+<body>
+    <h1>Aula sobre tabelas em HTML</h1>
+
+    <hr>
+
+    <h2>Exemplo de tabela horizontal simples</h2>
+    <table border="1">
+        <tr>
+            <th>Docente</th>
+            <th>Disciplina</th>
+            <th>Turma</th>
+        </tr>
+        <tr>
+            <td>Paulo Ricardo</td>
+            <td>Tecnologias Web</td>
+            <td>TADS 2</td>
+        </tr>
+        <tr>
+            <td>Alan Floriano</td>
+            <td>Análise de Sistemas</td>
+            <td>TADS 2</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Exemplo de tabela vertical simples</h2>
+    <table border="1">
+        <tr>
+            <th>Docente</th>
+            <td>Paulo Ricardo</td>
+            <td>Alan Floriano</td>
+        </tr>
+        <tr>
+            <th>Disciplina</th>
+            <td>Tecnologias Web</td>
+            <td>Análise de Sistemas</td>
+        </tr>
+        <tr>
+            <th>Turma</th>
+            <td>TADS 2</td>
+            <td>TADS 2</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Exemplo de tabela com colspan</h2>
+    <table border="1">
+        <tr>
+            <th>Docente</th>
+            <th colspan="2">Disciplina</th>
+        </tr>
+        <tr>
+            <td>Paulo Ricardo</td>
+            <td>Tecnologias Web</td>
+            <td>Programação Web</td>
+        </tr>
+    </table>
+
+    <hr>
+    <h2>Exemplo de tabela com rowspan</h2>
+    <table border="1">
+        <tr>
+            <th>Docente</th>
+            <td>Paulo Ricardo</td>
+        </tr>
+        <tr>
+            <th rowspan="2">Disciplina</th>
+            <td>Tecnologias Web</td>
+        </tr>
+        <tr>
+            <td>Programação Web</td>
+        </tr>
+    </table>
+</body>
+</html>
