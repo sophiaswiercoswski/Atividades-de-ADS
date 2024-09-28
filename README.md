@@ -7,7 +7,7 @@ Neste contém todas as atividades e projetos desenvolvidos ao longo do curso de 
 
 O objetivo deste repositório é armazenar as atividades e projetos realizados durante o curso, registrando o meu progresso de aprendizagem desde os conceitos básicos até os avançados.
 
-Será atualizado frenquentemente conforme novas atividades forem concluídas.
+Será atualizado frequentemente conforme novas atividades forem concluídas.
 
 ---
 
