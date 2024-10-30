@@ -1,0 +1,49 @@
+* { /* Seletor universal que é aplicado a todos os elementos */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0; /* Zerar as margens */
+    font-size: 14pt;
+}
+
+.header {
+    text-align: center; /* Centraliza o elemento */
+    margin-top: 30px; /* Define a margem superior */
+    margin-bottom: 30px; /* Define a margem inferior */
+}
+
+ul {
+    list-style: none; /* Remove os marcadores da lista */
+    margin: 0; /* Define que não haverá margens */
+    padding: 0; /* Define que não haverá espaçamentos */
+    overflow: hidden; /* Oculta os elementos ao atingirem a lista */
+    background-color: orange; /* Altera a cor de fundo */
+    position: sticky; /* Define o tipo de posicionamento da lista */
+    top: 0; /* Define que o topo será zerado */
+}
+
+li {
+    float: left; /* Flutua os itens da lista */
+}
+
+li a {
+    text-decoration: none; /* Remove os sublinhados dos links */
+    display: block; /* Segmenta em blocos cada link */
+    color: white; /* Define a cor dos links */
+    text-align: center; /* Centraliza o link da li */
+    padding: 14px 16px; /* Define o espaço horizontal e vertical */
+}
+
+li a:hover:not(.ativo) {
+    background-color: rgba(190, 138, 40, 0.623);;
+}
+
+.ativo {
+    background-color: rgb(199, 129, 0);
+}
+
+.divPrincipal {
+    height: 1500px; /* Define a altura da div */
+    
+}

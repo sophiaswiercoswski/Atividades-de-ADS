@@ -1,0 +1,39 @@
+.containerForm {
+    background-color: #f2f2f2; /* Cor de fundo da div */
+    font-size: 12pt; /* Tamanho da fonte da div */
+    padding: 20px; /* Espaçamento da div */
+    margin: 0 auto; /* Define a margem como zero */
+    width: 50%; /* Define a largura como 50% da div superior */
+    margin-bottom: 30px; /* Define a margem inferior */
+    border-radius: 10px; /* Define arredondamento das bordas */
+    box-shadow: 10px 10px 10px  grey;
+}
+
+label {
+    font-weight: bold; /* Define espessura da fonte */
+}
+
+input[type=email], input[type=password], input[type=text], select {
+    width: 100%; /* Define largura do input */
+    padding: 12px 20px; /* Define o espaçamento */
+    margin: 8px 0; /* Define margem */
+    display: inline-block; /* Define como bloco */
+    border: 1px solid #ccc; /* Defin bordas */
+    border-radius: 5px; /* Bordas arredondadas */
+    box-sizing: border-box;
+}
+
+button[type=submit] {
+    width: 100%; /* Define a largura */
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Arredondamento */
+    background-color: #4CAF50;  /* Define a cor de fundo */
+    color: white; /* Define cor das letras */
+    padding: 15px 20px; /* Define espaçamentos */
+    margin: 08px 0; /* Define margens */
+}
+
+button[type=submit]:hover {
+    background-color: #111;
+    cursor: pointer; /* Altera o cursor do mouse */
+}

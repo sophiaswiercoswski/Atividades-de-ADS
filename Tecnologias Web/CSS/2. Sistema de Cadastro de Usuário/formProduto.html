@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cadastre-se</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/estiloNavBar.css">
+        <link rel="stylesheet" href="css/estiloForm.css">
+    </head>
+    <body>
+
+        <div class="header">
+            <img src="img/shop_logo.png" width="150">
+        </div>
+        
+        <!-- Barra de navegação-->
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a class="active" href="formProduto.html">Cadastrar Produto</a></li>
+            <li style="float:right; border-left: 1px solid white;"><a href="formLogin.html">Login</a></li>
+        </ul>
+
+        <div class="containerPrincipal">
+            <h3 style="text-align: center;">Cadastre o produto:</h3>
+            <div class="containerForm">
+                <form action="#" name="formProduto" method="post">
+                    <label for="fotoProduto">Foto:</label>
+                    <input type="file" name="fotoProduto">
+
+                    <label for="nomeProduto">Nome do usuário:</label>
+                    <input type="text" name="nomeProduto" required>
+
+                    <label for="descricaoProduto">Descrição:</label>
+                    <textarea name="descricaoProduto"></textarea>
+
+                    <label for="categoriaProduto">Categoria:</label>
+                    <select name="categoriaProduto">
+                        <option value="alimento">Alimento</option>
+                        <option value="eletronico">Eletrônico</option>
+                        <option value="vestuario">Vestuário</option>
+                        <option value="outro" selected>Outro</option>
+                    </select>
+
+                    <label for="valorProduto">Valor:</label>
+                    <input type="text" name="valorProduto" required>
+
+                    <label for="condicaoProduto">Condição:</label><br>
+
+                    <input type="radio" name="condicaoProduto" value="novo">
+                    <label for="condicaoProduto">Novo</label><br>
+
+                    <input type="radio" name="condicaoProduto" value="usado">
+                    <label for="condicaoProduto">Usado</label><br>
+
+                    <button type="submit" name="btCadastrarProduto">Cadastrar Produto</button>
+                </form>
+
+                <p><a href="formUsuario.html" title="Cadastre-se">Ainda não possui um cadastro? Clique aqui!</a></p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Interfaces desenvolvidas para as aulas de Tecnologias Web do IFPR Campus Telêmaco Borba</p>
+        </div>
+               
+    </body>
+</html>
