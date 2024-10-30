@@ -13,14 +13,15 @@ label {
     font-weight: bold; /* Define espessura da fonte */
 }
 
-input[type=email], input[type=password], input[type=text], select {
+input[type=email], input[type=password], input[type=text], select, textarea {
     width: 100%; /* Define largura do input */
     padding: 12px 20px; /* Define o espaçamento */
     margin: 8px 0; /* Define margem */
     display: inline-block; /* Define como bloco */
     border: 1px solid #ccc; /* Defin bordas */
     border-radius: 5px; /* Bordas arredondadas */
-    box-sizing: border-box;
+    box-sizing: border-box; /* Limita o tamanho */
+    resize: none;
 }
 
 button[type=submit] {
@@ -36,4 +37,15 @@ button[type=submit] {
 button[type=submit]:hover {
     background-color: #111;
     cursor: pointer; /* Altera o cursor do mouse */
+}
+
+input[type="file"] {
+    width: 40%; /* Define a largura do elemento a ser estilizado, tendo como referencia o contêiner que está inserido */
+    background-color: #4CAF50;  /* Define a cor de fundo */
+    color: white; /* Define a cor de texto do elemento */
+    padding: 14px 20px; /* Define espaçamentos X e Y */
+    margin: 8px 0;
+    border: none; /* Remove as bordas */
+    border-radius: 4px; /* Define arredondamento das bordas */
+    cursor: pointer; /* Altera o cursor do muose */
 }

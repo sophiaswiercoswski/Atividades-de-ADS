@@ -69,4 +69,7 @@ li a:hover:not(.active) {
     color: blue;
     border: 1px black solid;
     padding: 20px;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
 }
