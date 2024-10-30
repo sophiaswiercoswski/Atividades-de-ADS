@@ -51,5 +51,7 @@ Atividade | Linguagem
 [Imagens clicáveis](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/4.%20Imagens%20clicáveis) | HTML
 [Tabelas](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/5.%20Tabelas) | HTML
 [Formulários](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/HTML/6.%20Formulários) | HTML
+[Box Model](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/79ca1ffc46901a152d7d2adc1b3e3a64ff5dfdee/Tecnologias%20Web/CSS/1.%20Box%20Model) | CSS
+[Sistema de Cadastro de Usuário](https://github.com/sophiaswiercoswski/Atividades-de-ADS/tree/main/Tecnologias%20Web/CSS/2.%20Sistema%20de%20Cadastro%20de%20Usuário) | CSS
 
 ---
