@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Defini;áo da struct 'Estudante'
+// Definição da struct 'Estudante'
 struct Estudante {
     string nome;
     int idade;
