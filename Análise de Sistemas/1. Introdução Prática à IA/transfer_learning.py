@@ -145,8 +145,8 @@ def predict(image_file):
         print('CACHORRO')
 
 # Insira uma imagem para testar o modelo
-#predict('gato.png')
-#predict('cachorro.png')
+# predict('gato.png')
+# predict('cachorro.png')
 
 model = load_model('model.h5')
 
