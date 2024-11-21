@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <h1>Cadastro de funcionários do Hospital</h1>
+    <hr>
+    <form method="post">
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" placeholder="Digite o seu nome completo" required>
+
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" placeholder="seuemail@gmail.com" required>
+
+        <br><br>
+
+        <label for="endereco">Endereço:</label>
+        <textarea cols="30" rows="3"></textarea>
+        
+        <br><br>
+
+        <label for="sexo">Sexo:</label><br>
+        
+        <input type="radio" name="sexo" value="feminino" checked>
+        <label for="feminino">Feminino</label>
+        
+        <input type="radio" name="sexo" value="masculino">
+        <label for="masculino">Masculino</label>
+        
+        <input type="radio" name="sexo" value="outro">
+        <label for="outro">Outro</label>
+        
+        <br><br>
+
+        <label for="cargo">Cargo:</label>
+        <select name="cargo" required>
+            <option value="">Selecione o cargo</option>
+            <option value="assistenteAuxiliar">Assistente auxiliar</option>
+            <option value="enfermeiro">Enfermeiro</option>
+            <option value="farmaceutico">Farmarcêutico</option>
+            <option value="fisioterapeuta">Fisioterapeuta</option>
+            <option value="medico">Médico</option>
+            <option value="nutricionista">Nutricionista</option>
+        </select>
+
+        <br><br>
+
+        <label for="data">Data de admissão:</label>
+        <input type="date" required>
+
+        <br><br>
+
+        <label for="salario">Salário:</label>
+        <input type="number" inputmode="numeric" placeholder="R$" min="1.100" step="0.001">
+    
+        <br><br>
+
+        <label for="curriculo">Anexe seu currículo em PDF:</label><br>
+        <input type="file" name="curriculo" accept="PDF">
+
+        <br><br>
+
+        <label for="imagem">Anexe a foto do seu crachá:</label><br>
+        <input type="file" name="imagem" accept=".png, .jpg, .jpeg">
+    </form>
+</body>
+</html>

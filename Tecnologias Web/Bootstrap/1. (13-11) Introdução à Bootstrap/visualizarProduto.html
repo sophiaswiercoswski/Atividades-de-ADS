@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizar Produto</title>
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <!-- Container para abrir o logotipo -->
+    <div class="container-fluid">
+      <a href="index.html" title="Retornar para a Página Inicial">
+        <img src="img/logo.webp" width="150">
+      </a>
+     </div>
+
+     <!-- Barra de Navegação do Sistema -->
+     <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+        <div class="container-fluid text-center p-2">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled" href="formProduto.html">Cadastrar Produto</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#formLogin.html">Login</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+    <!-- Container para abrigar o conteúdo da página -->
+    <div class="container p-5 mb-5">
+        <!-- Carousel -->
+        <div id="demo" class="carousel slide w-50" data-bs-ride="carousel" style="margin: auto">
+            <!-- Indicators/dots -->
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+            </div>
+        
+            <!-- The slideshow/carousel -->
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="img/vans001.webp" alt="Los Angeles" class="d-block w-100">
+              </div>
+
+              <div class="carousel-item">
+                <img src="img/vans002.webp" alt="Chicago" class="d-block w-100">
+              </div>
+
+              <div class="carousel-item">
+                <img src="img/vans003.webp" alt="New York" class="d-block w-100">
+              </div>
+            </div>
+        
+            <!-- Left and right controls/icons -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+              <span class="carousel-control-next-icon"></span>
+            </button>
+        </div>
+
+        <div class="text-center mt-3">
+          <a href="#" class="btn btn-primary">Comprar</a>
+        </div>
+    </div>
+    
+    <!-- Container para o Rodapé -->
+    <div class="container-fluid bg-dark text-light p-3 text center fixed-bottom">
+        <p>Interface desenvolvida na aula de Tecnologias Web</p>
+    </div>
+
+</body>
+</html>
