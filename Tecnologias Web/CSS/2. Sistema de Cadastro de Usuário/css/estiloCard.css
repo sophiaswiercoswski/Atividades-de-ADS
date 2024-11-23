@@ -1,0 +1,28 @@
+* {
+    margin: none; /* Define margens como 0 */
+    padding: 0; /* Define espaçamentos como 0 */
+    box-sizing: border-box; /* Inclui bordas e padding na largura e altura */
+}
+
+.container {
+    display: flex; /* Flexbox aplicado ao contêiner */
+    justify-content: space-between; /* Espaça os cards uniformemente */
+    gap: 20px; /* Espaçamento de 20px entre os cards */
+    max-width: 100%; /* Define 100% da largura do contêiner */
+    margin: 50px auto;
+}
+
+.card {
+    background-color: white; /* Define cor de fundo do card */
+    border: 1px solid lightgray; /* Define cor da borda */
+    border-radius: 8px; /* Define arredondamento do card */
+    padding: 20px; /* Define o espaçamento */
+    width: 24%; /* Define a largura de cada um dos 4 card */
+    box-shadow: 0 4px 6px #aaa; /* Define a sombra dos cards */
+    text-align: center; /* Alinha os textos ao card */
+    transition: transform 0.5s; /* Define a transição do card */
+}
+
+.card:hover {
+    transform: translateY(-10px); /* Move o card para cima */
+}
