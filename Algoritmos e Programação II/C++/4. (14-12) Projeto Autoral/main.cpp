@@ -6,7 +6,6 @@ Sophia Swiercoswski
 Este simples projeto pretendia registrar hábitos semanais. 
 A ideia era criar uma semana, os hábitos e marcar se foram concluídos ou não, e teriam relatórios que
 mostrariam o percentual de conclusão para o usuário ter uma visão de seus hábitos concluídos.
-Por falta de gerenciamento de tempo, não consegui fazer nada do que planejava :^/
 */
 
 #include <iostream> // Utilização de funções de entrada e saída
