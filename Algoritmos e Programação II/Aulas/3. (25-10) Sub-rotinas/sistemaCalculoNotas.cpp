@@ -45,7 +45,7 @@ int main() {
 	// Entrada de notas com validação
 	for(int i = 0; i < NUM_NOTAS; i++) {
 		do {
-			cout << "Digite a nota " << (i + 1) << "; ";
+			cout << "Digite a nota " << (i + 1) << ": ";
 			cin >> notas[i];
 			
 			if(!validarNota(notas[i])) {
