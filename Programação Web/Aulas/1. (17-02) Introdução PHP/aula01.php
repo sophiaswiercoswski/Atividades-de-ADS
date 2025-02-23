@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="PT-BR">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +15,7 @@
         $altura = 1.75;
         $nomeUsuario = "João";
     
-        // O comando echo é o OUTPUT a linguagem PHP
+        // O comando echo é o OUTPUT da linguagem PHP
         echo "<h3 style='color: red'>" . $anoAtual . "</h3>";
     
         echo "<p>O usuário $nomeUsuario nasceu em $anoNascimento. Portanto, ele possui " . ($anoAtual - $anoNascimento) . " anos de idade.</p>";
@@ -67,7 +67,7 @@
         echo "<table border='1'>";
             for($linha = 1; $linha <= 3; $linha++) {
                 echo "<tr>";
-                for($coluna = 1; $coluna <=3; $coluna++) {
+                for($coluna = 1; $coluna <= 3; $coluna++) {
                     echo "<td>";
                     echo "Linha $linha, Coluna $coluna";
                     echo "</td>";
