@@ -1,3 +1,4 @@
+<?php include "header.php"; ?>
 <?php
 
 // Verifica o método de requisição do servidor
@@ -113,3 +114,4 @@ function testar_entrada($dado) {
 }
 
 ?>
+<?php include "footer.php"; ?>
