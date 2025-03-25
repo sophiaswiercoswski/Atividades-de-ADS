@@ -20,6 +20,12 @@
                         <div class="invalid-feedback"></div>
                     </div>
                     <div class="form-floating mb-3 mt-3">
+                        <input type="date" class="form-control" id="dataNascimentoUsuario" placeholder="Data de Nascimento" name="dataNascimentoUsuario" required>
+                        <label for="dataNascimentoUsuario">Data de Nascimento</label>
+                        <div class="valid-feedback"></div>
+                        <div class="invalid-feedback"></div>
+                    </div>
+                    <div class="form-floating mb-3 mt-3">
                         <select class="form-select" id="cidadeUsuario" name="cidadeUsuario" required>
                             <option value="curiuva">Curiúva</option>
                             <option value="imbau">Imbaú</option>
