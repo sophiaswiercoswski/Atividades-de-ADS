@@ -1,3 +1,0 @@
-artifactId=ProjetoAula5
-groupId=com.mycompany
-version=1.0-SNAPSHOT
