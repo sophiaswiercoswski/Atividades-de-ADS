@@ -1,0 +1,8 @@
+banco\TesteBD.class
+formas\Forma.class
+banco\BancoDeDados.class
+banco\MySQL.class
+formas\Quadrado.class
+formas\Retangulo.class
+banco\PostgreSQL.class
+formas\TesteForma.class
